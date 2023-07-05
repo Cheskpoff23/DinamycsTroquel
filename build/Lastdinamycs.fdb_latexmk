@@ -1,21 +1,21 @@
 # Fdb version 4
-["bibtex build/Lastdinamycs"] 1688572503 "build/Lastdinamycs.aux" "build/Lastdinamycs.bbl" "build/Lastdinamycs" 1688572510 0
+["bibtex build/Lastdinamycs"] 1688573108 "build/Lastdinamycs.aux" "build/Lastdinamycs.bbl" "build/Lastdinamycs" 1688573114 0
   "./referencias.bib" 1688528498 737 4006ee7317bc907ca3f5b29b10de5e2f ""
-  "build/Lastdinamycs.aux" 1688572508 2499 3c16a702da75a8c50ea737ca3ce8a47d "pdflatex"
+  "build/Lastdinamycs.aux" 1688573113 2499 594b110f96ed7b8cea67afad04faf9c0 "pdflatex"
   "c:/texlive/2023/texmf-dist/bibtex/bst/apacite/apacite.bst" 1686112508 141073 9d7b79dbf9d91133318126032cff8c27 ""
   (generated)
   "build/Lastdinamycs.bbl"
   "build/Lastdinamycs.blg"
   (rewritten before read)
-["pdflatex"] 1688572504 "c:/Users/gusta/OneDrive/Escritorio/DinamycsTroquel/Lastdinamycs.tex" "build/Lastdinamycs.pdf" "Lastdinamycs" 1688572510 0
+["pdflatex"] 1688573112 "c:/Users/gusta/OneDrive/Escritorio/DinamycsTroquel/Lastdinamycs.tex" "build/Lastdinamycs.pdf" "Lastdinamycs" 1688573114 0
   "Analisis1.png" 1688528497 271523 1f56a5ca21be25d845456b6f1ff1474e ""
   "Analisis2.png" 1688528497 173030 05d77cadfd64a4e3fce9a383858cea36 ""
-  "Lastdinamycs.tex" 1688572494 7383 8ce0a36f8c7f35307c68c0d4d982d43e ""
+  "Lastdinamycs.tex" 1688573111 7344 1771c7b7ac46cc13a67eb67a4ae2ddde ""
   "Troquesolid.png" 1688528498 98743 8fad1170e86a064a13ee87ddb70dcf5b ""
-  "build/Lastdinamycs.aux" 1688572508 2499 3c16a702da75a8c50ea737ca3ce8a47d "pdflatex"
-  "build/Lastdinamycs.bbl" 1688572504 1861 4fb3e80040381a67237bb26ee9b03b2f "bibtex build/Lastdinamycs"
-  "build/Lastdinamycs.toc" 1688572508 316 ab343e7ad8dc93dd24f15e217aea4acf "pdflatex"
-  "c:/Users/gusta/OneDrive/Escritorio/DinamycsTroquel/Lastdinamycs.tex" 1688572494 7383 8ce0a36f8c7f35307c68c0d4d982d43e ""
+  "build/Lastdinamycs.aux" 1688573113 2499 594b110f96ed7b8cea67afad04faf9c0 "pdflatex"
+  "build/Lastdinamycs.bbl" 1688573109 1861 4fb3e80040381a67237bb26ee9b03b2f "bibtex build/Lastdinamycs"
+  "build/Lastdinamycs.toc" 1688573113 316 ab343e7ad8dc93dd24f15e217aea4acf "pdflatex"
+  "c:/Users/gusta/OneDrive/Escritorio/DinamycsTroquel/Lastdinamycs.tex" 1688573111 7344 1771c7b7ac46cc13a67eb67a4ae2ddde ""
   "c:/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1686119737 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1686112380 1004 54797486969f23fa377b128694d548df ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1686112380 916 f87d7c45f9c908e672703b83b72241a3 ""
