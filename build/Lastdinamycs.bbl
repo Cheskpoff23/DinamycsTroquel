@@ -1,0 +1,94 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Hibbeler%
+}{%
+Hibbeler%
+}{%
+{\protect \APACyear {2017}}%
+}]{%
+hibbeler2017mechanics}
+\APACinsertmetastar {%
+hibbeler2017mechanics}%
+\begin{APACrefauthors}%
+Hibbeler, R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2017}.
+\newblock
+\APACrefbtitle {Mechanics of Materials} {Mechanics of materials}.
+\newblock
+\APACaddressPublisher{}{Pearson}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Kane%
+}{%
+Kane%
+}{%
+{\protect \APACyear {1985}}%
+}]{%
+kane1985dynamics}
+\APACinsertmetastar {%
+kane1985dynamics}%
+\begin{APACrefauthors}%
+Kane, D., T.R.~Levinson.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1985}.
+\newblock
+\APACrefbtitle {Dynamics: Theory and Applications} {Dynamics: Theory and applications}.
+\newblock
+\APACaddressPublisher{}{McGraw-Hill Education}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Meriam%
+\ \BBA {} Kraige%
+}{%
+Meriam%
+\ \BBA {} Kraige%
+}{%
+{\protect \APACyear {2016}}%
+}]{%
+meriam2016engineering}
+\APACinsertmetastar {%
+meriam2016engineering}%
+\begin{APACrefauthors}%
+Meriam, J.%
+\BCBT {}\ \BBA {} Kraige, L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2016}.
+\newblock
+\APACrefbtitle {Engineering Mechanics: Dynamics} {Engineering mechanics: Dynamics}.
+\newblock
+\APACaddressPublisher{}{Wiley}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Planchard%
+}{%
+Planchard%
+}{%
+{\protect \APACyear {2017}}%
+}]{%
+planchard2017solidworks}
+\APACinsertmetastar {%
+planchard2017solidworks}%
+\begin{APACrefauthors}%
+Planchard, D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2017}.
+\newblock
+\APACrefbtitle {SOLIDWORKS 2017 reference guide} {Solidworks 2017 reference guide}.
+\newblock
+\APACaddressPublisher{}{Sdc Publications}.
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
